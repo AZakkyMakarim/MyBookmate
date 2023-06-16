@@ -11,8 +11,8 @@ MyBookmate Feature:
 - Subscription System
 - Bookmark
 
-![alt text](https://ibb.co/3NxdKcd)
-![alt text](https://ibb.co/YT8VTvt)
-![alt text](https://ibb.co/G9TYfCq)
-![alt text](https://ibb.co/ScRgQhV)
-![alt text](https://ibb.co/VCSvz1D)
+![plot](./Screenshot/Login.png)
+![plot](./Screenshot/Home.png)
+![plot](./Screenshot/Detail1.png)
+![plot](./Screenshot/Detail2.png)
+![plot](./Screenshot/Bookmark.png)
