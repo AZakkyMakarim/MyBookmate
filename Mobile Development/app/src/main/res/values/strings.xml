@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBookmate</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="search">Search</string>
+    <string name="search_book">Search book here</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="back">Back</string>
+    <string name="empty_bookmark">No bookmarks yet</string>
+    <string name="no_book">There is no book</string>
+</resources>

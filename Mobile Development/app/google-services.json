@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726033257970",
+    "project_id": "mybookmate-a0b98",
+    "storage_bucket": "mybookmate-a0b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726033257970:android:9741f928ddffa00bf1476b",
+        "android_client_info": {
+          "package_name": "com.azakkymakarim.mybookmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726033257970-nuolvv2dgicltnbcj20hlu89cilja72v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azakkymakarim.mybookmate",
+            "certificate_hash": "a1c3d0934dbcdbeda159afcbd5075cc0ca9e6bad"
+          }
+        },
+        {
+          "client_id": "726033257970-0cl8ho0fp3llq7hb84tlpkcfadol37cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQO20UfBMxrZwxtG64w9DP64tbQEOMyyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726033257970-0cl8ho0fp3llq7hb84tlpkcfadol37cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
